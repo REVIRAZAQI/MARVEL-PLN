@@ -1,0 +1,8 @@
+{
+  "name": "Remix MARVEL-PLN",
+  "description": "Aplikasi monitoring gudang dan pelacakan stok material real-time PLN berbasis data APKT, mutasi keluar/masuk/return, dan kartu gantung digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

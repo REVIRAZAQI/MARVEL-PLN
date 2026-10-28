@@ -1,0 +1,6518 @@
+[
+  {
+    "id": "tx-mw-1",
+    "timestamp": "01/01/2026 08:00:00",
+    "tanggal": "01/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 10
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "1/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-3",
+    "timestamp": "01/01/2026 08:00:00",
+    "tanggal": "01/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01486_SAMSUL ARIFIN",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01486_SAMSUL ARIFIN",
+    "column1": "2/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-6",
+    "timestamp": "01/02/2026 08:00:00",
+    "tanggal": "01/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "3/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-7",
+    "timestamp": "01/03/2026 08:00:00",
+    "tanggal": "01/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "4/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-8",
+    "timestamp": "01/04/2026 08:00:00",
+    "tanggal": "01/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "5/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-9",
+    "timestamp": "01/05/2026 08:00:00",
+    "tanggal": "01/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "6/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-10",
+    "timestamp": "01/06/2026 08:00:00",
+    "tanggal": "01/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "7/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-12",
+    "timestamp": "01/07/2026 08:00:00",
+    "tanggal": "01/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "8/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-15",
+    "timestamp": "01/09/2026 08:00:00",
+    "tanggal": "01/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "9/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-16",
+    "timestamp": "01/09/2026 08:00:00",
+    "tanggal": "01/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 26
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "10/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-17",
+    "timestamp": "01/10/2026 08:00:00",
+    "tanggal": "01/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "11/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-19",
+    "timestamp": "01/11/2026 08:00:00",
+    "tanggal": "01/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "12/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-21",
+    "timestamp": "13/01/2026 08:00:00",
+    "tanggal": "13/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "13/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-22",
+    "timestamp": "14/01/2026 08:00:00",
+    "tanggal": "14/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "14/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-24",
+    "timestamp": "15/01/2026 08:00:00",
+    "tanggal": "15/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 14
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "15/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-26",
+    "timestamp": "15/01/2026 08:00:00",
+    "tanggal": "15/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 15
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "16/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-28",
+    "timestamp": "18/01/2026 08:00:00",
+    "tanggal": "18/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "17/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-31",
+    "timestamp": "20/01/2026 08:00:00",
+    "tanggal": "20/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 40
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "18/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-32",
+    "timestamp": "22/01/2026 08:00:00",
+    "tanggal": "22/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060132",
+        "materialName": "COND ACC;NON TENSION JOINT AL 150mm2",
+        "normalisasi": "3060132",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "19/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-34",
+    "timestamp": "25/01/2026 08:00:00",
+    "tanggal": "25/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "20/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-37",
+    "timestamp": "27/01/2026 08:00:00",
+    "tanggal": "27/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "21/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-39",
+    "timestamp": "28/01/2026 08:00:00",
+    "tanggal": "28/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "22/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-40",
+    "timestamp": "29/01/2026 08:00:00",
+    "tanggal": "29/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01492_IMAM TURMUDI",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120231",
+        "materialName": "CABLE PWR ACC;CABLE SHOE CU ID 1H 150mm2",
+        "normalisasi": "3120231",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01492_IMAM TURMUDI",
+    "column1": "23/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-41",
+    "timestamp": "30/01/2026 08:00:00",
+    "tanggal": "30/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "24/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-43",
+    "timestamp": "31/01/2026 08:00:00",
+    "tanggal": "31/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "25/1/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-44",
+    "timestamp": "02/01/2026 08:00:00",
+    "tanggal": "02/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "1/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-46",
+    "timestamp": "02/03/2026 08:00:00",
+    "tanggal": "02/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 50
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "2/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-49",
+    "timestamp": "02/04/2026 08:00:00",
+    "tanggal": "02/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "3/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-50",
+    "timestamp": "02/04/2026 08:00:00",
+    "tanggal": "02/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "4/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-51",
+    "timestamp": "02/05/2026 08:00:00",
+    "tanggal": "02/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "5/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-52",
+    "timestamp": "02/07/2026 08:00:00",
+    "tanggal": "02/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01474_FIKY FENDY",
+    "reguYandal": "ULC_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 45
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01474_FIKY FENDY",
+    "column1": "6/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-53",
+    "timestamp": "02/09/2026 08:00:00",
+    "tanggal": "02/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 5
+      },
+      {
+        "materialId": "mat-2240024",
+        "materialName": "FUSE;380/220V;100A;SQUARE;1",
+        "normalisasi": "2240024",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120058",
+        "materialName": "CABLE PWR ACC;LARGE ANGLE ASSY 70mm",
+        "normalisasi": "3120058",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-55",
+        "materialName": "Cover CO",
+        "normalisasi": "",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "7/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-58",
+    "timestamp": "02/10/2026 08:00:00",
+    "tanggal": "02/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 27
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "8/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-59",
+    "timestamp": "02/10/2026 08:00:00",
+    "tanggal": "02/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01489_TATANG ATIO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060145",
+        "materialName": "COND ACC;JOINT SLEEVE AL 150mm2",
+        "normalisasi": "3060145",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3060143",
+        "materialName": "COND ACC;JOINT SLEEVE AL 70mm2",
+        "normalisasi": "3060143",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01489_TATANG ATIO",
+    "column1": "9/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-63",
+    "timestamp": "02/11/2026 08:00:00",
+    "tanggal": "02/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 19
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "10/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-64",
+    "timestamp": "02/11/2026 08:00:00",
+    "tanggal": "02/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "11/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-66",
+    "timestamp": "13/02/2026 08:00:00",
+    "tanggal": "13/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01495_ARIS DWI BAHTIAR",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01495_ARIS DWI BAHTIAR",
+    "column1": "12/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-67",
+    "timestamp": "14/02/2026 08:00:00",
+    "tanggal": "14/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060130",
+        "materialName": "COND ACC;NON TENSION JOINT AL 70mm2",
+        "normalisasi": "3060130",
+        "quantity": 8
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "13/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-71",
+    "timestamp": "15/02/2026 08:00:00",
+    "tanggal": "15/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01477_HERU PRASETYO",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 40
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01477_HERU PRASETYO",
+    "column1": "14/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-72",
+    "timestamp": "15/02/2026 08:00:00",
+    "tanggal": "15/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "15/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-73",
+    "timestamp": "16/02/2026 08:00:00",
+    "tanggal": "16/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120156",
+        "materialName": "CABLE PWR ACC;CABLE SHOE AL-CU 1H 70mm2",
+        "normalisasi": "3120156",
+        "quantity": 7
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "16/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-74",
+    "timestamp": "17/02/2026 08:00:00",
+    "tanggal": "17/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "17/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-75",
+    "timestamp": "18/02/2026 08:00:00",
+    "tanggal": "18/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "18/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-76",
+    "timestamp": "18/02/2026 08:00:00",
+    "tanggal": "18/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 22
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "19/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-77",
+    "timestamp": "19/02/2026 08:00:00",
+    "tanggal": "19/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "MS1_C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240024",
+        "materialName": "FUSE;380/220V;100A;SQUARE;1",
+        "normalisasi": "2240024",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240038",
+        "materialName": "FUSE;380/220V;200A;SQUARE;1",
+        "normalisasi": "2240038",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "20/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-81",
+    "timestamp": "19/02/2026 08:00:00",
+    "tanggal": "19/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240040",
+        "materialName": "FUSE;380/220V;224A;SQUARE;1",
+        "normalisasi": "2240040",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "21/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-83",
+    "timestamp": "20/02/2026 08:00:00",
+    "tanggal": "20/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1_C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060143",
+        "materialName": "COND ACC;JOINT SLEEVE AL 70mm2",
+        "normalisasi": "3060143",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "22/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-84",
+    "timestamp": "20/02/2026 08:00:00",
+    "tanggal": "20/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3060143",
+        "materialName": "COND ACC;JOINT SLEEVE AL 70mm2",
+        "normalisasi": "3060143",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "23/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-90",
+    "timestamp": "22/02/2026 08:00:00",
+    "tanggal": "22/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "24/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-92",
+    "timestamp": "23/02/2026 08:00:00",
+    "tanggal": "23/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240038",
+        "materialName": "FUSE;380/220V;200A;SQUARE;1",
+        "normalisasi": "2240038",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "25/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-93",
+    "timestamp": "25/02/2026 08:00:00",
+    "tanggal": "25/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01486_SAMSUL ARIFIN",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060143",
+        "materialName": "COND ACC;JOINT SLEEVE AL 70mm2",
+        "normalisasi": "3060143",
+        "quantity": 10
+      },
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3200005",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 20A",
+        "normalisasi": "3200005",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01486_SAMSUL ARIFIN",
+    "column1": "26/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-97",
+    "timestamp": "26/02/2026 08:00:00",
+    "tanggal": "26/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240024",
+        "materialName": "FUSE;380/220V;100A;SQUARE;1",
+        "normalisasi": "2240024",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "27/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-99",
+    "timestamp": "27/02/2026 08:00:00",
+    "tanggal": "27/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "28/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-101",
+    "timestamp": "28/02/2026 08:00:00",
+    "tanggal": "28/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "29/2/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-103",
+    "timestamp": "03/01/2026 08:00:00",
+    "tanggal": "03/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "1/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-104",
+    "timestamp": "03/03/2026 08:00:00",
+    "tanggal": "03/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "2/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-106",
+    "timestamp": "03/04/2026 08:00:00",
+    "tanggal": "03/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "3/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-107",
+    "timestamp": "03/05/2026 08:00:00",
+    "tanggal": "03/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "4/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-108",
+    "timestamp": "03/06/2026 08:00:00",
+    "tanggal": "03/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200005",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 20A",
+        "normalisasi": "3200005",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "5/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-109",
+    "timestamp": "03/06/2026 08:00:00",
+    "tanggal": "03/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 24
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "6/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-110",
+    "timestamp": "03/07/2026 08:00:00",
+    "tanggal": "03/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "7/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-112",
+    "timestamp": "03/08/2026 08:00:00",
+    "tanggal": "03/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "8/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-113",
+    "timestamp": "03/09/2026 08:00:00",
+    "tanggal": "03/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "9/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-115",
+    "timestamp": "03/10/2026 08:00:00",
+    "tanggal": "03/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 45
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "10/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-117",
+    "timestamp": "03/11/2026 08:00:00",
+    "tanggal": "03/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "11/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-118",
+    "timestamp": "03/12/2026 08:00:00",
+    "tanggal": "03/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "12/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-119",
+    "timestamp": "13/03/2026 08:00:00",
+    "tanggal": "13/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "13/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-120",
+    "timestamp": "16/03/2026 08:00:00",
+    "tanggal": "16/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "14/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-121",
+    "timestamp": "18/03/2026 08:00:00",
+    "tanggal": "18/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 15
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "15/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-122",
+    "timestamp": "19/03/2026 08:00:00",
+    "tanggal": "19/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "16/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-124",
+    "timestamp": "20/03/2026 08:00:00",
+    "tanggal": "20/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01486_SAMSUL ARIFIN",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01486_SAMSUL ARIFIN",
+    "column1": "17/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-126",
+    "timestamp": "21/03/2026 08:00:00",
+    "tanggal": "21/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "18/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-127",
+    "timestamp": "25/03/2026 08:00:00",
+    "tanggal": "25/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "19/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-128",
+    "timestamp": "30/03/2026 08:00:00",
+    "tanggal": "30/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "20/3/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-130",
+    "timestamp": "04/01/2026 08:00:00",
+    "tanggal": "04/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "1/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-131",
+    "timestamp": "04/02/2026 08:00:00",
+    "tanggal": "04/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3280384",
+        "materialName": "CONN;20kV;CCO;AL;70-150mm2;PRS",
+        "normalisasi": "3280384",
+        "quantity": 8
+      },
+      {
+        "materialId": "mat-3120156",
+        "materialName": "CABLE PWR ACC;CABLE SHOE AL-CU 1H 70mm2",
+        "normalisasi": "3120156",
+        "quantity": 26
+      },
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 5
+      },
+      {
+        "materialId": "mat-2240044",
+        "materialName": "FUSE;380/220V;250A;SQUARE;1",
+        "normalisasi": "2240044",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 6
+      },
+      {
+        "materialId": "mat-3200022",
+        "materialName": "CUT OUT ACC;HOLDER FUSE 20kV 100A",
+        "normalisasi": "3200022",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3270029",
+        "materialName": "LVSB ACC;FUSE HOLDER 400A",
+        "normalisasi": "3270029",
+        "quantity": 8
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "2/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-140",
+    "timestamp": "04/03/2026 08:00:00",
+    "tanggal": "04/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "3/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-141",
+    "timestamp": "04/04/2026 08:00:00",
+    "tanggal": "04/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "4/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-143",
+    "timestamp": "04/05/2026 08:00:00",
+    "tanggal": "04/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "5/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-144",
+    "timestamp": "04/06/2026 08:00:00",
+    "tanggal": "04/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01474_FIKY FENDY",
+    "reguYandal": "ULC D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01474_FIKY FENDY",
+    "column1": "6/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-147",
+    "timestamp": "04/06/2026 08:00:00",
+    "tanggal": "04/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 21
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "7/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-148",
+    "timestamp": "04/07/2026 08:00:00",
+    "tanggal": "04/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01474_FIKY FENDY",
+    "reguYandal": "ULC D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01474_FIKY FENDY",
+    "column1": "8/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-149",
+    "timestamp": "04/07/2026 08:00:00",
+    "tanggal": "04/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 23
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "9/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-150",
+    "timestamp": "04/08/2026 08:00:00",
+    "tanggal": "04/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01477_HERU PRASETYO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01477_HERU PRASETYO",
+    "column1": "10/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-153",
+    "timestamp": "04/09/2026 08:00:00",
+    "tanggal": "04/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 110
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "11/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-154",
+    "timestamp": "04/11/2026 08:00:00",
+    "tanggal": "04/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "12/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-155",
+    "timestamp": "13/04/2026 08:00:00",
+    "tanggal": "13/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "13/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-156",
+    "timestamp": "14/04/2026 08:00:00",
+    "tanggal": "14/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "14/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-158",
+    "timestamp": "15/04/2026 08:00:00",
+    "tanggal": "15/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "15/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-160",
+    "timestamp": "15/04/2026 08:00:00",
+    "tanggal": "15/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 26
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "16/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-161",
+    "timestamp": "17/04/2026 08:00:00",
+    "tanggal": "17/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200007",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 25A",
+        "normalisasi": "3200007",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "17/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-163",
+    "timestamp": "19/04/2026 08:00:00",
+    "tanggal": "19/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "18/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-165",
+    "timestamp": "20/04/2026 08:00:00",
+    "tanggal": "20/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "19/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-166",
+    "timestamp": "21/04/2026 08:00:00",
+    "tanggal": "21/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "20/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-169",
+    "timestamp": "22/04/2026 08:00:00",
+    "tanggal": "22/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "21/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-171",
+    "timestamp": "24/04/2026 08:00:00",
+    "tanggal": "24/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "22/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-173",
+    "timestamp": "25/04/2026 08:00:00",
+    "tanggal": "25/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "23/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-174",
+    "timestamp": "26/04/2026 08:00:00",
+    "tanggal": "26/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "24/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-176",
+    "timestamp": "27/04/2026 08:00:00",
+    "tanggal": "27/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "25/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-177",
+    "timestamp": "29/04/2026 08:00:00",
+    "tanggal": "29/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "26/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-178",
+    "timestamp": "30/04/2026 08:00:00",
+    "tanggal": "30/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3120077",
+        "materialName": "CABLE PWR ACC;STAINLEES STEEL STRIP SSS",
+        "normalisasi": "3120077",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "27/4/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-180",
+    "timestamp": "05/01/2026 08:00:00",
+    "tanggal": "05/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "1/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-183",
+    "timestamp": "05/02/2026 08:00:00",
+    "tanggal": "05/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "2/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-185",
+    "timestamp": "05/03/2026 08:00:00",
+    "tanggal": "05/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "3/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-186",
+    "timestamp": "05/04/2026 08:00:00",
+    "tanggal": "05/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240038",
+        "materialName": "FUSE;380/220V;200A;SQUARE;1",
+        "normalisasi": "2240038",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "4/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-188",
+    "timestamp": "05/05/2026 08:00:00",
+    "tanggal": "05/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120231",
+        "materialName": "CABLE PWR ACC;CABLE SHOE CU ID 1H 150mm2",
+        "normalisasi": "3120231",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "5/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-189",
+    "timestamp": "05/07/2026 08:00:00",
+    "tanggal": "05/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 36
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "6/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-191",
+    "timestamp": "05/07/2026 08:00:00",
+    "tanggal": "05/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "7/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-192",
+    "timestamp": "05/08/2026 08:00:00",
+    "tanggal": "05/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "8/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-193",
+    "timestamp": "05/08/2026 08:00:00",
+    "tanggal": "05/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "9/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-194",
+    "timestamp": "05/10/2026 08:00:00",
+    "tanggal": "05/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "10/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-195",
+    "timestamp": "05/11/2026 08:00:00",
+    "tanggal": "05/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "11/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-197",
+    "timestamp": "05/12/2026 08:00:00",
+    "tanggal": "05/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "12/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-198",
+    "timestamp": "13/05/2026 08:00:00",
+    "tanggal": "13/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 16
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "13/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-199",
+    "timestamp": "14/05/2026 08:00:00",
+    "tanggal": "14/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240024",
+        "materialName": "FUSE;380/220V;100A;SQUARE;1",
+        "normalisasi": "2240024",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 5
+      },
+      {
+        "materialId": "mat-3120077",
+        "materialName": "CABLE PWR ACC;STAINLEES STEEL STRIP SSS",
+        "normalisasi": "3120077",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "14/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-203",
+    "timestamp": "15/05/2026 08:00:00",
+    "tanggal": "15/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "15/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-204",
+    "timestamp": "16/05/2026 08:00:00",
+    "tanggal": "16/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 50
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "16/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-207",
+    "timestamp": "17/05/2026 08:00:00",
+    "tanggal": "17/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120156",
+        "materialName": "CABLE PWR ACC;CABLE SHOE AL-CU 1H 70mm2",
+        "normalisasi": "3120156",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-207",
+        "materialName": "Cover LA",
+        "normalisasi": "",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "17/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-210",
+    "timestamp": "18/05/2026 08:00:00",
+    "tanggal": "18/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 28
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "18/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-211",
+    "timestamp": "20/05/2026 08:00:00",
+    "tanggal": "20/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01477_HERU PRASETYO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01477_HERU PRASETYO",
+    "column1": "19/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-212",
+    "timestamp": "22/05/2026 08:00:00",
+    "tanggal": "22/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "20/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-213",
+    "timestamp": "24/05/2026 08:00:00",
+    "tanggal": "24/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120325",
+        "materialName": "CABLE PWR ACC;SW CLAMP 2X6-25/4x6-25",
+        "normalisasi": "3120325",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 9
+      },
+      {
+        "materialId": "mat-3120077",
+        "materialName": "CABLE PWR ACC;STAINLEES STEEL STRIP SSS",
+        "normalisasi": "3120077",
+        "quantity": 11
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "21/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-217",
+    "timestamp": "25/05/2026 08:00:00",
+    "tanggal": "25/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "22/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-219",
+    "timestamp": "28/05/2026 08:00:00",
+    "tanggal": "28/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "23/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-220",
+    "timestamp": "30/05/2026 08:00:00",
+    "tanggal": "30/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "24/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-221",
+    "timestamp": "31/05/2026 08:00:00",
+    "tanggal": "31/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "25/5/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-223",
+    "timestamp": "06/01/2026 08:00:00",
+    "tanggal": "06/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01492_IMAM TURMUDI",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01492_IMAM TURMUDI",
+    "column1": "1/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-224",
+    "timestamp": "06/02/2026 08:00:00",
+    "tanggal": "06/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "2/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-228",
+    "timestamp": "06/09/2026 08:00:00",
+    "tanggal": "06/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 28
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "3/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-229",
+    "timestamp": "06/09/2026 08:00:00",
+    "tanggal": "06/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "4/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-230",
+    "timestamp": "15/06/2026 08:00:00",
+    "tanggal": "15/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "5/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-231",
+    "timestamp": "16/06/2026 08:00:00",
+    "tanggal": "16/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "6/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-233",
+    "timestamp": "18/06/2026 08:00:00",
+    "tanggal": "18/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 15
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "7/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-235",
+    "timestamp": "20/06/2026 08:00:00",
+    "tanggal": "20/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01467_ANANG EDI SUTRISNO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01467_ANANG EDI SUTRISNO",
+    "column1": "8/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-236",
+    "timestamp": "21/06/2026 08:00:00",
+    "tanggal": "21/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240024",
+        "materialName": "FUSE;380/220V;100A;SQUARE;1",
+        "normalisasi": "2240024",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "9/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-237",
+    "timestamp": "22/06/2026 08:00:00",
+    "tanggal": "22/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01467_ANANG EDI SUTRISNO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 40
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01467_ANANG EDI SUTRISNO",
+    "column1": "10/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-239",
+    "timestamp": "22/06/2026 08:00:00",
+    "tanggal": "22/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 28
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "11/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-240",
+    "timestamp": "24/06/2026 08:00:00",
+    "tanggal": "24/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "12/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-241",
+    "timestamp": "25/06/2026 08:00:00",
+    "tanggal": "25/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060143",
+        "materialName": "COND ACC;JOINT SLEEVE AL 70mm2",
+        "normalisasi": "3060143",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3060130",
+        "materialName": "COND ACC;NON TENSION JOINT AL 70mm2",
+        "normalisasi": "3060130",
+        "quantity": 6
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "13/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-245",
+    "timestamp": "26/06/2026 08:00:00",
+    "tanggal": "26/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "14/6/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-246",
+    "timestamp": "07/01/2026 08:00:00",
+    "tanggal": "07/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "1/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-247",
+    "timestamp": "07/02/2026 08:00:00",
+    "tanggal": "07/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 35
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "2/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-250",
+    "timestamp": "07/03/2026 08:00:00",
+    "tanggal": "07/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "3/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-251",
+    "timestamp": "07/04/2026 08:00:00",
+    "tanggal": "07/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "4/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-253",
+    "timestamp": "07/06/2026 08:00:00",
+    "tanggal": "07/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 26
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "5/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-254",
+    "timestamp": "07/07/2026 08:00:00",
+    "tanggal": "07/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01467_ANANG EDI SUTRISNO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01467_ANANG EDI SUTRISNO",
+    "column1": "6/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-256",
+    "timestamp": "07/08/2026 08:00:00",
+    "tanggal": "07/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "7/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-257",
+    "timestamp": "07/09/2026 08:00:00",
+    "tanggal": "07/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "8/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-258",
+    "timestamp": "07/10/2026 08:00:00",
+    "tanggal": "07/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01467_ANANG EDI SUTRISNO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01467_ANANG EDI SUTRISNO",
+    "column1": "9/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-259",
+    "timestamp": "13/07/2026 08:00:00",
+    "tanggal": "13/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3060130",
+        "materialName": "COND ACC;NON TENSION JOINT AL 70mm2",
+        "normalisasi": "3060130",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "10/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-263",
+    "timestamp": "15/07/2026 08:00:00",
+    "tanggal": "15/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 15
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "11/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-265",
+    "timestamp": "15/07/2026 08:00:00",
+    "tanggal": "15/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01483_RICO FIRMANSYAH",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01483_RICO FIRMANSYAH",
+    "column1": "12/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-266",
+    "timestamp": "16/07/2026 08:00:00",
+    "tanggal": "16/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "13/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-267",
+    "timestamp": "17/07/2026 08:00:00",
+    "tanggal": "17/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01474_FIKY FENDY",
+    "reguYandal": "ULC D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01474_FIKY FENDY",
+    "column1": "14/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-268",
+    "timestamp": "18/07/2026 08:00:00",
+    "tanggal": "18/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "15/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-269",
+    "timestamp": "20/07/2026 08:00:00",
+    "tanggal": "20/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120325",
+        "materialName": "CABLE PWR ACC;SW CLAMP 2X6-25/4x6-25",
+        "normalisasi": "3120325",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3120092",
+        "materialName": "CABLE PWR ACC;SUSPENSION ASSY 70mm",
+        "normalisasi": "3120092",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120058",
+        "materialName": "CABLE PWR ACC;LARGE ANGLE ASSY 70mm",
+        "normalisasi": "3120058",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "16/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-273",
+    "timestamp": "21/07/2026 08:00:00",
+    "tanggal": "21/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 26
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "17/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-274",
+    "timestamp": "23/07/2026 08:00:00",
+    "tanggal": "23/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "18/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-275",
+    "timestamp": "24/07/2026 08:00:00",
+    "tanggal": "24/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "19/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-279",
+    "timestamp": "25/07/2026 08:00:00",
+    "tanggal": "25/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 15
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "20/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-281",
+    "timestamp": "26/07/2026 08:00:00",
+    "tanggal": "26/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250058",
+        "materialName": "MCB;230/400V;1P;25A;50Hz;",
+        "normalisasi": "3250058",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "21/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-282",
+    "timestamp": "27/07/2026 08:00:00",
+    "tanggal": "27/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3120325",
+        "materialName": "CABLE PWR ACC;SW CLAMP 2X6-25/4x6-25",
+        "normalisasi": "3120325",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "22/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-285",
+    "timestamp": "31/07/2026 08:00:00",
+    "tanggal": "31/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 25
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "23/7/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-287",
+    "timestamp": "08/02/2026 08:00:00",
+    "tanggal": "08/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "1/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-289",
+    "timestamp": "08/03/2026 08:00:00",
+    "tanggal": "08/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2230125",
+        "materialName": "CLAMP;G;AL;50-70/50-70mm2;PRS",
+        "normalisasi": "2230125",
+        "quantity": 16
+      },
+      {
+        "materialId": "mat-2230121",
+        "materialName": "CLAMP;G;AL;16-35/10-16mm2;PRS",
+        "normalisasi": "2230121",
+        "quantity": 6
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "2/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-292",
+    "timestamp": "08/05/2026 08:00:00",
+    "tanggal": "08/05/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01474_FIKY FENDY",
+    "reguYandal": "ULC D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230125",
+        "materialName": "CLAMP;G;AL;50-70/50-70mm2;PRS",
+        "normalisasi": "2230125",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01474_FIKY FENDY",
+    "column1": "3/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-293",
+    "timestamp": "08/06/2026 08:00:00",
+    "tanggal": "08/06/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 28
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "4/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-294",
+    "timestamp": "08/07/2026 08:00:00",
+    "tanggal": "08/07/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230125",
+        "materialName": "CLAMP;G;AL;50-70/50-70mm2;PRS",
+        "normalisasi": "2230125",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "5/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-295",
+    "timestamp": "08/08/2026 08:00:00",
+    "tanggal": "08/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2230125",
+        "materialName": "CLAMP;G;AL;50-70/50-70mm2;PRS",
+        "normalisasi": "2230125",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "6/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-297",
+    "timestamp": "08/10/2026 08:00:00",
+    "tanggal": "08/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "7/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-298",
+    "timestamp": "08/11/2026 08:00:00",
+    "tanggal": "08/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "8/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-300",
+    "timestamp": "13/08/2026 08:00:00",
+    "tanggal": "13/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 23
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "9/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-301",
+    "timestamp": "13/08/2026 08:00:00",
+    "tanggal": "13/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "10/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-304",
+    "timestamp": "14/08/2026 08:00:00",
+    "tanggal": "14/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01479_JUNAEDI",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01479_JUNAEDI",
+    "column1": "11/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-305",
+    "timestamp": "18/08/2026 08:00:00",
+    "tanggal": "18/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01467_ANANG EDI SUTRISNO",
+    "reguYandal": "MS1 B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01467_ANANG EDI SUTRISNO",
+    "column1": "12/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-307",
+    "timestamp": "19/08/2026 08:00:00",
+    "tanggal": "19/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "13/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-308",
+    "timestamp": "21/08/2026 08:00:00",
+    "tanggal": "21/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 23
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "14/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-309",
+    "timestamp": "21/08/2026 08:00:00",
+    "tanggal": "21/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "15/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-310",
+    "timestamp": "24/08/2026 08:00:00",
+    "tanggal": "24/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "16/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-311",
+    "timestamp": "25/08/2026 08:00:00",
+    "tanggal": "25/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200017",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 8A",
+        "normalisasi": "3200017",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "17/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-312",
+    "timestamp": "26/08/2026 08:00:00",
+    "tanggal": "26/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 50
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "18/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-313",
+    "timestamp": "27/08/2026 08:00:00",
+    "tanggal": "27/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "reguYandal": "ULC A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 10
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01481_KURNIAWAN ANGGA SASMITO",
+    "column1": "19/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-314",
+    "timestamp": "28/08/2026 08:00:00",
+    "tanggal": "28/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 50
+      },
+      {
+        "materialId": "mat-3250052",
+        "materialName": "MCB;230/400V;1P;10A;50Hz;",
+        "normalisasi": "3250052",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "20/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-316",
+    "timestamp": "31/08/2026 08:00:00",
+    "tanggal": "31/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "21/8/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-319",
+    "timestamp": "09/01/2026 08:00:00",
+    "tanggal": "09/01/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01472_DWI LAKSONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200007",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 25A",
+        "normalisasi": "3200007",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3200009",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 30A",
+        "normalisasi": "3200009",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01472_DWI LAKSONO",
+    "column1": "1/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-321",
+    "timestamp": "09/02/2026 08:00:00",
+    "tanggal": "09/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "MS1 C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "2/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-322",
+    "timestamp": "09/03/2026 08:00:00",
+    "tanggal": "09/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "3/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-323",
+    "timestamp": "09/04/2026 08:00:00",
+    "tanggal": "09/04/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "4/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-324",
+    "timestamp": "09/08/2026 08:00:00",
+    "tanggal": "09/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "5/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-325",
+    "timestamp": "09/09/2026 08:00:00",
+    "tanggal": "09/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "6/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-326",
+    "timestamp": "09/10/2026 08:00:00",
+    "tanggal": "09/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "7/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-327",
+    "timestamp": "09/11/2026 08:00:00",
+    "tanggal": "09/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 23
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "8/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-328",
+    "timestamp": "09/12/2026 08:00:00",
+    "tanggal": "09/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "9/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-329",
+    "timestamp": "15/09/2026 08:00:00",
+    "tanggal": "15/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01479_JUNAEDI",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060130",
+        "materialName": "COND ACC;NON TENSION JOINT AL 70mm2",
+        "normalisasi": "3060130",
+        "quantity": 6
+      },
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01479_JUNAEDI",
+    "column1": "10/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-332",
+    "timestamp": "19/09/2026 08:00:00",
+    "tanggal": "19/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1 D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "11/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-333",
+    "timestamp": "20/09/2026 08:00:00",
+    "tanggal": "20/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01479_JUNAEDI",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 30
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01479_JUNAEDI",
+    "column1": "12/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-336",
+    "timestamp": "21/09/2026 08:00:00",
+    "tanggal": "21/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 25
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "13/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-337",
+    "timestamp": "22/09/2026 08:00:00",
+    "tanggal": "22/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200015",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 6A",
+        "normalisasi": "3200015",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "14/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-338",
+    "timestamp": "25/09/2026 08:00:00",
+    "tanggal": "25/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01493_HERU CAHYONO",
+    "reguYandal": "MS1 A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01493_HERU CAHYONO",
+    "column1": "15/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-339",
+    "timestamp": "28/09/2026 08:00:00",
+    "tanggal": "28/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230121",
+        "materialName": "CLAMP;G;AL;16-35/10-16mm2;PRS",
+        "normalisasi": "2230121",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "16/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-340",
+    "timestamp": "29/09/2026 08:00:00",
+    "tanggal": "29/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Spv K3L Pelayanan Teknik",
+    "namaPetugas": "DI-01471_DAVID BASYHUL HAFI",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 6
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01471_DAVID BASYHUL HAFI",
+    "column1": "17/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-341",
+    "timestamp": "30/09/2026 08:00:00",
+    "tanggal": "30/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 6
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "18/9/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-344",
+    "timestamp": "10/02/2026 08:00:00",
+    "tanggal": "10/02/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 40
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "1/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-345",
+    "timestamp": "10/03/2026 08:00:00",
+    "tanggal": "10/03/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01477_HERU PRASETYO",
+    "reguYandal": "ULC_B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 20
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01477_HERU PRASETYO",
+    "column1": "2/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-346",
+    "timestamp": "10/08/2026 08:00:00",
+    "tanggal": "10/08/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC_A",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "3/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-348",
+    "timestamp": "10/09/2026 08:00:00",
+    "tanggal": "10/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01494_ILHAM CAHYA PRIYONO",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240067",
+        "materialName": "FUSE;380/220V;63A;SQUARE;1",
+        "normalisasi": "2240067",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240044",
+        "materialName": "FUSE;380/220V;250A;SQUARE;1",
+        "normalisasi": "2240044",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01494_ILHAM CAHYA PRIYONO",
+    "column1": "4/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-352",
+    "timestamp": "10/09/2026 08:00:00",
+    "tanggal": "10/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01494_ILHAM CAHYA PRIYONO",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3200005",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 20A",
+        "normalisasi": "3200005",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01494_ILHAM CAHYA PRIYONO",
+    "column1": "5/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-357",
+    "timestamp": "10/09/2026 08:00:00",
+    "tanggal": "10/09/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01490_WAHYU SUGIARTO",
+    "reguYandal": "Preventif 2",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200008",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 2A",
+        "normalisasi": "3200008",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200005",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 20A",
+        "normalisasi": "3200005",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2240067",
+        "materialName": "FUSE;380/220V;63A;SQUARE;1",
+        "normalisasi": "2240067",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240044",
+        "materialName": "FUSE;380/220V;250A;SQUARE;1",
+        "normalisasi": "2240044",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01490_WAHYU SUGIARTO",
+    "column1": "6/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-367",
+    "timestamp": "10/11/2026 08:00:00",
+    "tanggal": "10/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230121",
+        "materialName": "CLAMP;G;AL;16-35/10-16mm2;PRS",
+        "normalisasi": "2230121",
+        "quantity": 10
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "7/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-368",
+    "timestamp": "10/11/2026 08:00:00",
+    "tanggal": "10/11/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "8/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-369",
+    "timestamp": "10/12/2026 08:00:00",
+    "tanggal": "10/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01487_SISWANTORO",
+    "reguYandal": "ULC_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2230122",
+        "materialName": "CLAMP;G;AL;16-35/16-35mm2;PRS",
+        "normalisasi": "2230122",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01487_SISWANTORO",
+    "column1": "9/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-370",
+    "timestamp": "10/12/2026 08:00:00",
+    "tanggal": "10/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01466_ALBERT RUDIYANTO",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200018",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 5A",
+        "normalisasi": "3200018",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200007",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 25A",
+        "normalisasi": "3200007",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200009",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 30A",
+        "normalisasi": "3200009",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3200011",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 40A",
+        "normalisasi": "3200011",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2240067",
+        "materialName": "FUSE;380/220V;63A;SQUARE;1",
+        "normalisasi": "2240067",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2230122",
+        "materialName": "CLAMP;G;AL;16-35/16-35mm2;PRS",
+        "normalisasi": "2230122",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01466_ALBERT RUDIYANTO",
+    "column1": "10/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-378",
+    "timestamp": "10/12/2026 08:00:00",
+    "tanggal": "10/12/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01469_ARIF WICAKSONO",
+    "reguYandal": "ULC_B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01469_ARIF WICAKSONO",
+    "column1": "11/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-379",
+    "timestamp": "13/10/2026 08:00:00",
+    "tanggal": "13/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200022",
+        "materialName": "CUT OUT ACC;HOLDER FUSE 20kV 100A",
+        "normalisasi": "3200022",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-3270029",
+        "materialName": "LVSB ACC;FUSE HOLDER 400A",
+        "normalisasi": "3270029",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "12/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-381",
+    "timestamp": "13/10/2026 08:00:00",
+    "tanggal": "13/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190222",
+        "materialName": "MTR;kWH ECOM;;1P;230V;5-40A MINMCB;1;;",
+        "normalisasi": "2190222",
+        "quantity": 25
+      }
+    ],
+    "petugasSecurity": "Idham Kholiq",
+    "security": "Idham Kholiq",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "13/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-382",
+    "timestamp": "13/10/2026 08:00:00",
+    "tanggal": "13/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01495_ARIS DWI BAHTIAR",
+    "reguYandal": "ULC_B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240029",
+        "materialName": "FUSE;380/220V;125A;SQUARE;1",
+        "normalisasi": "2240029",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01495_ARIS DWI BAHTIAR",
+    "column1": "14/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-383",
+    "timestamp": "13/10/2026 08:00:00",
+    "tanggal": "13/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01482_R RAHMAD HIDAYAT",
+    "reguYandal": "MS1_B",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200002",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 10A",
+        "normalisasi": "3200002",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Andreas Widyo Nugroho",
+    "security": "Andreas Widyo Nugroho",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01482_R RAHMAD HIDAYAT",
+    "column1": "15/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-384",
+    "timestamp": "15/10/2026 08:00:00",
+    "tanggal": "15/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01468_ANANG SETIAWAN",
+    "reguYandal": "MS1_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240035",
+        "materialName": "FUSE;380/220V;160A;SQUARE;1",
+        "normalisasi": "2240035",
+        "quantity": 3
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01468_ANANG SETIAWAN",
+    "column1": "16/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-385",
+    "timestamp": "16/10/2026 08:00:00",
+    "tanggal": "16/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01477_HERU PRASETYO",
+    "reguYandal": "ULC_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-2240072",
+        "materialName": "FUSE;380/220V;80A;SQUARE;1",
+        "normalisasi": "2240072",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01477_HERU PRASETYO",
+    "column1": "17/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-386",
+    "timestamp": "19/10/2026 08:00:00",
+    "tanggal": "19/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01496_SYAIFUDIN ZUHRI",
+    "reguYandal": "ULC_A",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200004",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 15A",
+        "normalisasi": "3200004",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-2240048",
+        "materialName": "FUSE;380/220V;300A;SQUARE;2",
+        "normalisasi": "2240048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01496_SYAIFUDIN ZUHRI",
+    "column1": "18/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-388",
+    "timestamp": "19/10/2026 08:00:00",
+    "tanggal": "19/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01470_BAYU AJI GUNAWAN",
+    "reguYandal": "ULC_C",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 1
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01470_BAYU AJI GUNAWAN",
+    "column1": "19/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-390",
+    "timestamp": "19/10/2026 08:00:00",
+    "tanggal": "19/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01744_MOH. ZAINAL ABIDIN",
+    "reguYandal": "Preventif 2",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3120038",
+        "materialName": "CABLE PWR ACC;DEAD END ASSY FIXED 70mm",
+        "normalisasi": "3120038",
+        "quantity": 1
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01744_MOH. ZAINAL ABIDIN",
+    "column1": "20/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-391",
+    "timestamp": "19/10/2026 08:00:00",
+    "tanggal": "19/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Petugas Gamet",
+    "namaPetugas": "YUNUS",
+    "reguYandal": "Gamet",
+    "noGangguan": "GANTI METER",
+    "items": [
+      {
+        "materialId": "mat-2190224",
+        "materialName": "MTR;kWH E-PR;;1P;230V;5-60A;1;;2W",
+        "normalisasi": "2190224",
+        "quantity": 28
+      }
+    ],
+    "petugasSecurity": "Hari Sujoko",
+    "security": "Hari Sujoko",
+    "pemberiMaterial": "Revi Alvin Razaqi",
+    "petugasPelayananTeknik": "YUNUS",
+    "column1": "21/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-392",
+    "timestamp": "20/10/2026 08:00:00",
+    "tanggal": "20/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Preventif",
+    "namaPetugas": "DI-01472_DWI LAKSONO",
+    "reguYandal": "Preventif 1",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3060130",
+        "materialName": "COND ACC;NON TENSION JOINT AL 70mm2",
+        "normalisasi": "3060130",
+        "quantity": 4
+      },
+      {
+        "materialId": "mat-3120228",
+        "materialName": "CABLE PWR ACC;CABLE SHOE CU ID 1H 70mm2",
+        "normalisasi": "3120228",
+        "quantity": 3
+      },
+      {
+        "materialId": "mat-4190262",
+        "materialName": "UNIV ACC;GROUND ROD CU 3/4\"X2750mm",
+        "normalisasi": "4190262",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3110025",
+        "materialName": "CABLE PWR;NFA2X;2X10mm2;0.6/1kV;OH",
+        "normalisasi": "3110025",
+        "quantity": 100
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01472_DWI LAKSONO",
+    "column1": "22/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-396",
+    "timestamp": "20/10/2026 08:00:00",
+    "tanggal": "20/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3200010",
+        "materialName": "CUT OUT ACC;FUSE LINK 20kV 3A",
+        "normalisasi": "3200010",
+        "quantity": 10
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "23/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-397",
+    "timestamp": "20/10/2026 08:00:00",
+    "tanggal": "20/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01485_SAIFUL BAHRI",
+    "reguYandal": "ULC_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01485_SAIFUL BAHRI",
+    "column1": "24/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-399",
+    "timestamp": "20/10/2026 08:00:00",
+    "tanggal": "20/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "Yandal",
+    "namaPetugas": "DI-01484_RICO WIJAYA",
+    "reguYandal": "MS1_D",
+    "noGangguan": "GANGGUAN DAN PEMELIHARAAN",
+    "items": [
+      {
+        "materialId": "mat-3250046",
+        "materialName": "MCB;230/400V;1P;2A;50Hz;",
+        "normalisasi": "3250046",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250048",
+        "materialName": "MCB;230/400V;1P;4A;50Hz;",
+        "normalisasi": "3250048",
+        "quantity": 2
+      },
+      {
+        "materialId": "mat-3250050",
+        "materialName": "MCB;230/400V;1P;6A;50Hz;",
+        "normalisasi": "3250050",
+        "quantity": 2
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "DI-01484_RICO WIJAYA",
+    "column1": "25/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  },
+  {
+    "id": "tx-mw-402",
+    "timestamp": "20/10/2026 08:00:00",
+    "tanggal": "20/10/2026",
+    "admMaterial": "Keluar",
+    "jabatan": "TL Teknik",
+    "namaPetugas": "ZAENUDIN",
+    "reguYandal": "PLN",
+    "noGangguan": "G",
+    "items": [
+      {
+        "materialId": "mat-2230127",
+        "materialName": "CLAMP;G;AL;70-150/70-150mm2;PRS",
+        "normalisasi": "2230127",
+        "quantity": 4
+      }
+    ],
+    "petugasSecurity": "Septian Dwi Cahyo",
+    "security": "Septian Dwi Cahyo",
+    "pemberiMaterial": "Ahmad Zaenudin",
+    "petugasPelayananTeknik": "ZAENUDIN",
+    "column1": "26/10/SJ/ULP-TGL/2026",
+    "status": "Approved"
+  }
+]

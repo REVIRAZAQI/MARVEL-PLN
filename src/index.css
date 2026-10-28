@@ -1,0 +1,244 @@
+@import "tailwindcss";
+
+/* =========================================================================
+   GLOBAL TYPOGRAPHY SETUP - ROBOTO (SIMPLE & ELEGAN)
+   ========================================================================= */
+@layer base {
+  *, ::before, ::after {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif !important;
+  }
+
+  html, body, button, input, optgroup, select, textarea {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: -0.01em;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif !important;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  code, kbd, samp, pre, .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+  }
+
+  html, body {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
+  body.modal-open {
+    overflow: hidden !important;
+  }
+}
+
+@media print {
+  /* Hide all app chrome and background elements */
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  header, nav, footer, .no-print {
+    display: none !important;
+  }
+
+  /* Remove modal fixed styling, dark backdrop, and overflow clipping */
+  .modal-backdrop-print {
+    position: static !important;
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    inset: auto !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  .modal-dialog-print {
+    box-shadow: none !important;
+    border: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  .modal-body-print {
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+    overflow: visible !important;
+  }
+
+  /* Full page printable area */
+  #printable-surat-jalan {
+    box-shadow: none !important;
+    border: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: block !important;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 8mm 12mm 8mm 12mm;
+  }
+}
+
+/* =========================================================================
+   SILKY SMOOTH APP ANIMATIONS & TRANSITIONS
+   (Masuk, Keluar, Buka Menu, Tutup Menu, & Back Menu)
+   ========================================================================= */
+
+@keyframes smoothMenuEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(10px) scale(0.985);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes smoothMenuExit {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.988);
+  }
+}
+
+@keyframes smoothFadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes smoothBackdropEnter {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes smoothModalPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.94) translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes smoothBackSlide {
+  0% {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Menu entry & exit container transitions */
+.anim-zoom-menu,
+.menu-transition-enter {
+  animation: smoothMenuEnter 0.32s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.anim-fade-in-up {
+  animation: smoothFadeInUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Modal dialogs & pop-ups */
+.modal-backdrop-animate {
+  animation: smoothBackdropEnter 0.24s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.modal-content-animate {
+  animation: smoothModalPop 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Back button smooth entrance */
+.back-btn-animate {
+  animation: smoothBackSlide 0.24s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Interactive elements micro-physics */
+button,
+a,
+[role="button"] {
+  transition-property: color, background-color, border-color, transform, box-shadow, opacity;
+  transition-duration: 0.18s;
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+button:active,
+a:active,
+[role="button"]:active {
+  transform: scale(0.98);
+}
+
+
+/* =========================================================================
+   MOBILE TYPOGRAPHY & LAYOUT REFINEMENTS
+   Membuat seluruh tulisan rapi, elegan, proporsional, dan nyaman dibaca
+   ========================================================================= */
+@media (max-width: 640px) {
+  body {
+    font-size: 13.5px;
+    line-height: 1.45;
+  }
+  h1 {
+    font-size: clamp(1.4rem, 5vw, 1.85rem) !important;
+    line-height: 1.2 !important;
+    letter-spacing: -0.02em !important;
+  }
+  h2 {
+    font-size: clamp(1.2rem, 4vw, 1.45rem) !important;
+    line-height: 1.25 !important;
+  }
+  h3 {
+    font-size: clamp(1rem, 3.5vw, 1.2rem) !important;
+    line-height: 1.3 !important;
+  }
+  p, span, label {
+    overflow-wrap: break-word;
+    word-break: normal;
+  }
+  /* Touch target & text readability */
+  button, [role="button"] {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  input, select, textarea {
+    font-size: 14px !important;
+  }
+}
